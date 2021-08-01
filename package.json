@@ -1,0 +1,24 @@
+{
+  "name": "@heppokofrontend/eslint-config",
+  "description": "ESLint shareable config for @heppokofrontend",
+  "version": "1.0.0",
+  "author": "heppokofrontend",
+  "bugs": {
+    "url": "https://github.com/heppokofrontend/eslint-config/issues"
+  },
+  "dependencies": {
+    "@types/eslint": "^7.28.0",
+    "eslint": "^7.32.0"
+  },
+  "homepage": "https://github.com/heppokofrontend/eslint-config#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heppokofrontend/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
